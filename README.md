@@ -1,4 +1,5 @@
-# AFB - Autofishbot
+# AFB - Autofishbot (Back up)
+This is a back up of the repo!
 Auto fishing bot made in Python 3 for [Virtual Fisher](https://virtualfisher.com/) Discord bot.
 
 ## Features
